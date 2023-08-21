@@ -1,0 +1,4 @@
+kiteconnect.ticker - ERROR - Connection error: 1006 - connection was closed uncleanly (None)
+kiteconnect.ticker - ERROR - Connection closed: 1006 - connection was closed uncleanly (None)
+kiteconnect.ticker - ERROR - Connection error: 1006 - connection was closed uncleanly (WebSocket opening handshake timeout (peer did not finish the opening handshake in time))
+kiteconnect.ticker - ERROR - Connection closed: 1006 - connection was closed uncleanly (WebSocket opening handshake timeout (peer did not finish the opening handshake in time))
